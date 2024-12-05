@@ -1,0 +1,1 @@
+This project is a Sentiment Analysis NLP Model that classifies textual input into sentiment categories such as positive, negative, or neutral. Sentiment analysis is widely used in various applications, including customer feedback analysis, social media monitoring, and product reviews.
